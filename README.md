@@ -13,7 +13,8 @@ A modern web application for creating, managing, and sharing notes built with La
 
 ## Screenshots
 
-(You can add screenshots of your application here)
+![image](https://github.com/user-attachments/assets/8fffa4e1-d244-4fd5-91d3-ab6546a23a3d)
+
 
 ## Requirements
 
